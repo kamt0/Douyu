@@ -1,0 +1,43 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CBZSplashView (1.0.0)
+  - JSONModel (1.2.0)
+  - MJRefresh (3.1.0)
+  - SDAutoLayout (1.52)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CBZSplashView
+  - JSONModel
+  - MJRefresh
+  - SDAutoLayout
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CBZSplashView: 9ce4cba22024476ff4a97d6433e7347da6376016
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  SDAutoLayout: 7c92e8f149059e80010507e471e1b4b6c85a62bb
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: d214f5a3289ed9c754196b9c7aa75b36fe2dc5c5
+
+COCOAPODS: 1.0.0.beta.8

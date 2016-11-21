@@ -1,0 +1,54 @@
+{
+    "items": [
+              {
+              "title": "直播平台",
+              "key":"tab_0",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "直播平台",
+                           "image": "live_normal",
+                           "image_hl": "live_sel"
+                           }
+                           ]
+              },
+              {
+              "title": "联盟资讯",
+              "key":"tab_1",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "联盟资讯",
+                           "image": "news_normal",
+                           "image_hl": "news_sel"
+                           }
+                           ]
+              },
+              {
+              "title": "游戏视频",
+              "key":"tab_2",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "游戏视频",
+                           "image": "video_normal",
+                           "image_hl": "video_sel"
+                           }
+                           ]
+              },
+              {
+              "title": "联盟百科",
+              "key":"tab_3",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "联盟百科",
+                           "image": "more_normal",
+                           "image_hl": "more_sel"
+                           }
+                           ]
+              },
+              
+              
+              ]
+}
